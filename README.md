@@ -1,6 +1,10 @@
 # 📊 Priority Customer Transaction Monitoring
 Exploratory Data Analysis & Risk-Oriented Dashboard
 
+## 📓 Notebook Analisis
+- [`Priority_Customer_Transaction_Monitoring.ipynb`](Priority_Customer_Transaction_Monitoring.ipynb)  
+  Notebook utama yang berisi proses eksplorasi data, analisis perilaku transaksi, dan penarikan insight bisnis.
+
 ## 🧭 Business Context
 Segmen nasabah prioritas memiliki karakteristik transaksi bernilai besar yang secara alami berbeda dengan nasabah reguler. Bank perlu memastikan bahwa aktivitas transaksi bernilai tinggi pada segmen ini dapat dimonitor secara efektif untuk:
 * meningkatkan pengawasan risiko
