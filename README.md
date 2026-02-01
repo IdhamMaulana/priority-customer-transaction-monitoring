@@ -23,15 +23,8 @@ Analisis difokuskan untuk menjawab enam pertanyaan utama berikut:
 
 ## 📂 Data Overview
 
-<a href="https://github.com/IdhamMaulana/priority-customer-transaction-monitoring/blob/main/customer.xlsx">
-Customer Dataset
-</a>
-
-<br>
-
-<a href="https://github.com/IdhamMaulana/priority-customer-transaction-monitoring/blob/main/transaction.xlsx">
-Transaction Dataset
-</a>
+- [Customer Dataset](dataset/customer.xlsx)
+- [Transaction Dataset](dataset/transaction.xlsx)
 
 
 Dataset yang digunakan mencakup:
