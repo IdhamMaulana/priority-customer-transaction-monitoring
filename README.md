@@ -55,6 +55,11 @@ Pendekatan analisis dilakukan secara bertahap:
 ## 💼 Business Impact
 Analisis menunjukkan bahwa transaksi bernilai besar pada segmen nasabah prioritas terkonsentrasi pada sebagian kecil nasabah dengan profil finansial matang, tersebar lintas wilayah, serta melibatkan berbagai produk dan kanal. Tidak ditemukan anomali ekstrem secara statistik, meskipun terdapat sebagian nasabah dengan utilisasi dana tinggi yang ditunjukkan oleh rasio transaksi terhadap saldo rata-rata di atas 1. Temuan ini menegaskan bahwa pola tersebut umumnya wajar, namun tetap memerlukan pengawasan risiko berbasis profil dan perilaku agar sistem monitoring lebih kontekstual dan minim false positive.
 
+📊 Dashboard
+Hasil analisis divisualisasikan dalam dashboard interaktif menggunakan Looker Studio untuk mendukung pemantauan risiko secara ringkas dan eksploratif.
+<img width="2500" height="1876" alt="Dashboard" src="https://github.com/user-attachments/assets/6b3e34e2-0378-4832-8bbd-be94fa76367c" />
+
+
 ## 🧰 Tools & Technologies
 - Python (pandas, numpy, matplotlib, seaborn)
 - Google Looker Studio
